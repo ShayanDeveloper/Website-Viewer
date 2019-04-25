@@ -1,6 +1,6 @@
 # :fire: Website Viewer [With Proxy] :fire:
 <b>:man_technologist:Coded By .::Shayan::.</b></br>
-<b>:comet:This Script Add Many Views With Proxy List!</b></br>
+<b>:comet:This Script Can Add Many Views With Proxy List!</b></br>
 <b>:pray:Thank's For Using Our Script :)</b></br></br>
 
 ### :point_down: ScreenShot :point_down:
